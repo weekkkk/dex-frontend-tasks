@@ -4,5 +4,5 @@ module.exports = {
     "^.+\\.html$": "html-loader-jest",
   },
   testMatch: ["**/.tests/**/*.js"],
-  reporters: ["<rootDir>/.tools/test-reporter.js"],
+  // reporters: ["<rootDir>/.tools/test-reporter.js"],
 };

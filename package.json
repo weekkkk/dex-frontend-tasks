@@ -18,7 +18,8 @@
     "jest-environment-jsdom": "^29.7.0",
     "jest-summary-reporter": "^0.0.2",
     "lint-staged": "^15.2.11",
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "util": "^0.12.5"
   },
   "lint-staged": {
     "*": [
